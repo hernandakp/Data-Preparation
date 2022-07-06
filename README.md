@@ -1,4 +1,4 @@
-# Data preparation: data understanding, heatmaps, data cleaning, dimensionality reduction
+# Data Preparation: Data Understanding, Heatmaps, Data Cleaning, Dimensionality Reduction
 Dimensionality reduction with Kmeans and PCA method.  
 Dataset: Hospital data  
 Specifically library:  
